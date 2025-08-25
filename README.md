@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Chang Hanhae 👋</h1>
 
 <p align="center">
-  🚗 Junier Embedded Systems Engineer in the making<br/>
-  💡 Passionate about low-level programming, automotive tech, and clean code<br/>
-  🛠️ Building real-time systems one line of code at a time
+  🚗 Currently searching for a job based on SDV vehicle SW developer<br/>
+  💡 Passionate about low-level programming, Automotive Architecture, AUTOSAR, RTOS<br/>
+  🛠️ Currently studing Automotive Architecture & Interested in managing github page.
 </p>
 
 ---
@@ -23,6 +23,8 @@
 ### 🛞 Interests  
 - Real-Time Operating Systems  
 - Performance Optimization on Embedded Hardware
+- Software Defined Vehicle
+- In-Vehicle Infotainment technique
 
 ---
 
