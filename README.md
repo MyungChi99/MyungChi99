@@ -32,6 +32,9 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubID&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubID&theme=tokyonight&count_private=true" height="160"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hansun333&theme=github-dark" />
+<img src="https://github-profile-trophy.vercel.app/?username=hansun333&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hansun333&theme=tokyonight&hide_title=true" />
 </p>
 
 ---
