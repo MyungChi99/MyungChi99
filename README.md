@@ -31,10 +31,9 @@
 ### 📈 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Myungchi99&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Myungchi99&theme=tokyonight&count_private=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=Myungchi99&theme=tokyonight&count_private=true" height="160"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Myungchi99&theme=github-dark" />
 <img src="https://github-profile-trophy.vercel.app/?username=Myungchi99&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Myungchi99&theme=tokyonight&hide_title=true" />
 </p>
 
 ---
