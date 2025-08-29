@@ -1,0 +1,37 @@
+# .github/workflows/metrics.yml
+
+name: GitHub Metrics
+on:
+  # 매일 자정에 자동으로 실행
+  schedule: [{cron: "0 0 * * *"}]
+  # 수동으로 실행할 수 있도록 함
+  workflow_dispatch:
+  # main 브랜치에 푸시될 때 실행
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # GitHub 아이디를 입력하세요
+          user: Your-GitHub-Username
+          
+          # 자동으로 생성되는 GITHUB_TOKEN 사용
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # 기본 레이아웃 설정
+          template: classic
+          base: activity, community, repositories, metadata
+          
+          # 🦉 "I'm a night owl" 같은 활동 통계를 생성하는 플러그인
+          plugin_habits: yes
+          plugin_habits.from: 200       # 최근 200개 커밋을 분석
+          plugin_habits.days: 14        # 최근 14일간의 데이터를 분석
+          plugin_habits.facts: yes      # "I'm a night owl" 같은 재밌는 사실 표시
+          plugin_habits.charts: yes     # 막대 그래프 차트 표시
+          
+          # 시간대 설정 (한국 시간)
+          config_timezone: Asia/Seoul
