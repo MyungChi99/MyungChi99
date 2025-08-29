@@ -17,7 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # GitHub 아이디를 입력하세요
-          user: Your-GitHub-Username
+          user: MyungChi99
           
           # 자동으로 생성되는 GITHUB_TOKEN 사용
           token: ${{ secrets.GITHUB_TOKEN }}
