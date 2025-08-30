@@ -34,7 +34,6 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-![My GitHub Metrics](metrics.svg)
 <img src="https://github-readme-stats.vercel.app/api?username=Myungchi99&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Myungchi99&theme=github-dark" />
 </p>
