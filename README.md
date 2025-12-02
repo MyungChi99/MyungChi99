@@ -3,7 +3,7 @@
 <p align="center">
   🚗 Currently searching for a job <br/>
   💡 Passionate about low-level programming, Automotive Architecture, Architecture Considering Code, Game Dev, Indie Game<br/>
-  🛠️ Studing Automotive Architecture & Interested in managing github page.
+  🛠️ Studing Automotive Architecture.
 </p>
 
 ---
