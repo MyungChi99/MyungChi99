@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Chang Hanhae 👋</h1>
 
-<p align="center">
-  🚗 Currently searching for a job <br/>
-  💡 Passionate about low-level programming, Automotive Architecture, Architecture Considering Code, Game Dev, Indie Game<br/>
-  🛠️ Studing Automotive Architecture.
 </p>
 
 ---
