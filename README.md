@@ -20,13 +20,6 @@
 
 ---
 
-### 🛞 Interests  
-- Real-Time Operating Systems  
-- Performance Optimization on Embedded Hardware
-- Software Defined Vehicle
-- In-Vehicle Infotainment technique
-
----
 
 ### 📈 GitHub Stats
 <p align="center">
